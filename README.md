@@ -10,7 +10,8 @@ There could be a React version mismatch that might not allow installation. Use `
 npm install --force
 ```
 
-In the project directory, you can run:
-
-### `npm start`
+To start the project-
+```
+npm start
+```
 
